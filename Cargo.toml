@@ -1,5 +1,6 @@
 [package]
 name = "x16rs-sys"
+description = "x16rs c binding for rust"
 version = "0.1.0"
 edition = "2024"
 
